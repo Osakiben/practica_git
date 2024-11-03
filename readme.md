@@ -45,3 +45,5 @@ Módulos del Primer Año
 Metodología 
 
 El curso se desarrolla mediante clases teóricas y prácticas, con proyectos intermodulares
+
+Nueva modificación
